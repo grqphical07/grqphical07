@@ -1,9 +1,4 @@
 <h1 align="center">Hello I am grqphical! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<div id="badges" align="center">
-<img src="https://img.shields.io/github/followers/grqphical07?color=dark&label=Follow"/>
-<img src="https://komarev.com/ghpvc/?username=grqphical07&color=blue" alt=""/>
-</div>
-
 
 ### I am a game developer and software developer from Canada. I have 2 years experience with Python and Lua as well as a year of experience with C++ and C#. I also work with the VEX VRC system using C++ and the PROS library. In my free time I play video games and do 3D modelling in Blender
 <br>
