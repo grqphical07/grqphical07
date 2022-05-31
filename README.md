@@ -17,11 +17,13 @@
   
 - 🍁 Proud Canadian
   
-- 🎮 Creating my own game engine with C++ and OpenGL
+- 🎮 Wanting to create my own game engine with C++ and OpenGL because why not
 
 - 🕹️ Avid Gamer
 
 - 🌐 No Socials Yet Sorry!
+
+- 📖 Currently Learning OpenGL, C++ and, HTML/CSS
 <br>
 
 ---
