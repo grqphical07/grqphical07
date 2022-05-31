@@ -1,6 +1,5 @@
 <h1 align="center">Hello I am grqphical! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=grqphical07e&color=green"/>
 <img src="https://img.shields.io/github/followers/grqphical07?color=dark&label=Follow"/>
 <img src="https://komarev.com/ghpvc/?username=grqphical07&color=blue" alt=""/>
 </div>
