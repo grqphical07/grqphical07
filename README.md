@@ -30,6 +30,9 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="50" height="50">](https://www.roblox.com/create)&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="50" height="50">](https://www.cplusplus.com)
 ---
+## 📦 Repositories:
+![VEX Spin Up 2022-2023 Repository for 6408X](https://github-readme-stats.vercel.app/api/pin/?username=grqphical07&repo=spin-up&theme=dark)
+---
 ## 🔥 GitHub Stuff:
 ![grqphical's Github Stats](https://github-readme-stats.vercel.app/api?username=grqphical07&theme=dark)
 
