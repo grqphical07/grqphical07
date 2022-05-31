@@ -31,9 +31,12 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="50" height="50">](https://www.cplusplus.com)
 ---
 ## 📦 Repositories:
-[![6408X Spin Up Code 2022-2023](https://github-readme-stats.vercel.app/api/pin/?username=grqphical07&repo=spin-up&theme=dark)](https://www.github.com/grqphical07/spin-up)
+[![6408X Spin Up Code 2022-2023](https://github-readme-stats.vercel.app/api/pin/?username=grqphical07&repo=spin-up&theme=dark&cache-control=no-cache)](https://www.github.com/grqphical07/spin-up)
+[![Super Idle AFK Script](https://github-readme-stats.vercel.app/api/pin/?username=grqphical07&repo=Super-Idle&theme=dark&cache-control=no-cache)](https://www.github.com/grqphical07/Super-Idle)
+[![Python Wordle Clone](https://github-readme-stats.vercel.app/api/pin/?username=grqphical07&repo=Wordle.py&theme=dark&cache-control=no-cache)](https://www.github.com/grqphical07/Wordle.py)
+[![Python ZIP File Tool](https://github-readme-stats.vercel.app/api/pin/?username=grqphical07&repo=Packer&theme=dark&cache-control=no-cache)](https://www.github.com/grqphical07/Packer)
 ---
 ## 🔥 GitHub Stuff:
-![grqphical's Github Stats](https://github-readme-stats.vercel.app/api?username=grqphical07&theme=dark)
+![grqphical's Github Stats](https://github-readme-stats.vercel.app/api?username=grqphical07&theme=dark&cache-control=no-cache)
 
 ![grqphical's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grqphical07&theme=dark&cache-control=no-cache)
