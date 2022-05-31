@@ -36,4 +36,4 @@
 ## 🔥 GitHub Stuff:
 ![grqphical's Github Stats](https://github-readme-stats.vercel.app/api?username=grqphical07&theme=dark)
 
-![grqphical's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grqphical07&theme=dark)
+![grqphical's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grqphical07&theme=dark&cache-control=no-cache)
