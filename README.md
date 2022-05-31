@@ -15,12 +15,10 @@
 - 🖥️ Mostly work in **Game Development** and **Software Development**
   
 - 🍁 Proud Canadian
-  
-- 🎮 Wanting to create my own game engine with C++ and OpenGL because why not
 
 - 🕹️ Avid Gamer
 
-- 🌐 No Socials Yet Sorry!
+- ⚡ Nothing beats debugging for 4 hours to only realize that it was a minor typo that was causing problems
 
 - 📖 Currently Learning OpenGL, C++ and, HTML/CSS
 <br>
@@ -34,7 +32,8 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="50" height="50">](https://unity.com)&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-plain.svg" width="50" height="50">](https://www.opengl.org/)&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="50" height="50">](https://www.blender.org)&nbsp;&nbsp;&nbsp;
-
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="50" height="50">](https://www.roblox.com/create)&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="50" height="50">](https://www.cplusplus.com)
 ---
 ## 🔥 GitHub Stuff:
 ![grqphical's Github Stats](https://github-readme-stats.vercel.app/api?username=grqphical07&theme=dark)
