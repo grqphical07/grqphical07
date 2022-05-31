@@ -11,7 +11,7 @@
 
 - 📝 Currently working on a first person shooter game. Still an early prototype
   
-- 🤖 Lead programmer for team 6408X of [Syntechs Robotics](www.syntechsrobotics.ca) which competes in [VEX VRC](https://www.vexrobotics.com/v5/competition/vrc-current-game)
+- 🤖 Lead programmer for team 6408X of [Syntechs Robotics](https://www.syntechsrobotics.ca) which competes in [VEX VRC](https://www.vexrobotics.com/v5/competition/vrc-current-game)
   
 - 🖥️ Mostly work in **Game Development** and **Software Development**
   
@@ -19,7 +19,9 @@
   
 - 🎮 Creating my own game engine with C++ and OpenGL
 
-- 🕹️ Avid Strategy Game Player
+- 🕹️ Avid Gamer
+
+- 🌐 No Socials Yet Sorry!
 <br>
 
 ---
